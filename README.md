@@ -1,5 +1,5 @@
 ⭐️Ndewo, i'm Charis Obialor </br>
-⭐️Fullstack Developer</br>
+⭐️Fullstack Software Engineer</br>
 ⭐️Saas Developer | Predictive analytics Expert</br>
 📍Lagos, Nigeria</br>
 
