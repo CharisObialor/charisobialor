@@ -71,8 +71,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charisobialor&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charisobialor&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=charisobialor&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=charisobialor&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
 
 <p align="center">
